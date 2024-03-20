@@ -2,6 +2,6 @@
 
 
 ### Status
-| Directory |Part| Status | Sended
-|-----------|----|--------|-------
-|           | 0  |  ✅    |   Done
+| Directory |Part| Status | Sended  |
+|-----------|----|--------|---------|
+|           | 0  |  ✅    |   Done  |

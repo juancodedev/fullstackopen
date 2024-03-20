@@ -4,4 +4,4 @@
 ### Status
 | Directory |Part| Status | Sended  |
 |-----------|----|--------|---------|
-|           | 0  |  ✅    |   Done  |
+|  /part0   | 0  |  ✅    |   Done  |
